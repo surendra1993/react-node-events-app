@@ -1,3 +1,6 @@
+Built a CRUD events API from scratch with NodeJS and built Front End using React to communicate with Events API
+
+
 This project actually contains two projects:
 
 - A React.js application (i.e., the frontend SPA)
